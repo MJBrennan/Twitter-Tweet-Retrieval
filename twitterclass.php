@@ -36,28 +36,3 @@
 	$tweets = new TwitterClass();
 
 	echo $tweets;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-?>
